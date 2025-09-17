@@ -3,7 +3,7 @@
   <!-- Coluna de texto + badges -->
   <div class="text-column" style="flex: 1 1 300px; max-width: 500px; display: flex; flex-direction: column; gap: 0.5rem; align-items: flex-start; text-align: left;">
     
-  <div>
+  <div style="width:50%">
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FF6E96&center=true&width=435&lines=Ol%C3%A1%2C+sou+Julia+Pereira!%F0%9F%91%8B" alt="Typing SVG" />
       </a>
@@ -23,7 +23,7 @@
 
   <!-- Coluna do GIF -->
   <div class="gif-column" style="flex: 0 0 200px; display: flex; justify-content: center; align-items: center;">
-    <img src="assets/gif_github.gif" alt="gif-juliasoares17" style="height: 50px; width: 50px; object-fit: contain;" />
+    <img src="assets/gif_github.gif" alt="gif-juliasoares17" style="max-height: 100px; width: 50%; object-fit: contain;" />
   </div>
 
 </div>

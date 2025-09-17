@@ -1,35 +1,35 @@
-<div class="main-container" style="display: flex; flex-direction: row; align-items: center; gap: 2rem; justify-content: center;">
-
-  <!-- Coluna de texto + badges -->
-  <div class="text-column" style="flex: 1 1 400px; display: flex; flex-direction: column; gap: 0.5rem; align-items: flex-start; text-align: left;">
-    
-  <!-- Typing SVG e parágrafo -->
-  <div>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FF6E96&center=true&width=435&lines=Ol%C3%A1%2C+sou+Julia+Pereira!%F0%9F%91%8B" alt="Typing SVG" />
+<!-- Seção principal: GIF à direita, texto + badges à esquerda -->
+<table align="center" style="width:100%; max-width:800px;">
+  <tr>
+    <!-- Coluna de texto + badges -->
+    <td style="vertical-align: top; padding-right: 1rem; width: 60%;">
+      <!-- Typing SVG -->
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FF6E96&center=true&width=435&lines=Ol%C3%A1%2C+sou+Julia+Pereira!%F0%9F%91%8B" alt="Typing SVG" />
       </a>
-      <p>Me chamo Julia Soares Pereira, tenho 19 anos de idade e atualmente curso o quarto semestre de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, em São José dos Campos (SP). Iniciei esse curso logo após concluir o Ensino Médio na Escola Walter Fortunato, e será minha primeira graduação na área da tecnologia. Sou proativa, gosto de aprender e estou sempre em busca de aprimorar minhas habilidades.</p>
-    </div>
+
+  <!-- Texto -->
+  <div style="margin-top: 0.5rem; line-height:1.4; font-size:14px;">
+    Me chamo Julia Soares Pereira, tenho 19 anos de idade e atualmente curso o quarto semestre de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, em São José dos Campos (SP). Iniciei esse curso logo após concluir o Ensino Médio na Escola Walter Fortunato, e será minha primeira graduação na área da tecnologia. Sou proativa, gosto de aprender e estou sempre em busca de aprimorar minhas habilidades.
+      </div>
 
   <!-- Badges -->
-  <div class="badges" style="display: flex; gap: 0.4rem; margin-top: 0.5rem;">
-      <a href="mailto:juliapereira1448@gmail.com" target="_blank">
-        <img alt="email-juliasoares17" style="border-radius: 0.3rem; border: solid white 0.1rem;" src="https://img.shields.io/badge/✉️%20Email-282A36?style=for-the-badge&logo=microsoft-outlook&logoColor=F26B9C"/>
-      </a>
-
-  <a href="https://www.linkedin.com/in/julia-soares-pereira-9ab79830b" target="_blank">
-    <img alt="linkedin-juliasoares17" style="border-radius: 0.3rem; border: solid white 0.1rem;" src="https://img.shields.io/badge/🔗%20LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=F26B9C"/>
-      </a>
-    </div>
-
-  </div>
+  <div style="margin-top:0.5rem;">
+    <a href="mailto:juliapereira1448@gmail.com" target="_blank">
+          <img alt="email-juliasoares17" style="border-radius: 0.3rem; border: solid white 0.1rem;" src="https://img.shields.io/badge/✉️%20Email-282A36?style=for-the-badge&logo=microsoft-outlook&logoColor=F26B9C"/>
+        </a>
+        <a href="https://www.linkedin.com/in/julia-soares-pereira-9ab79830b" target="_blank">
+          <img alt="linkedin-juliasoares17" style="border-radius: 0.3rem; border: solid white 0.1rem;" src="https://img.shields.io/badge/🔗%20LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=F26B9C"/>
+        </a>
+      </div>
+    </td>
 
   <!-- Coluna do GIF -->
-  <div class="gif-column" style="flex: 0 0 200px; display: flex; justify-content: center; align-items: center;">
-    <img src="assets/gif_github.gif" alt="gif-juliasoares17" style="max-height: 200px; width: auto; object-fit: contain;" />
-  </div>
-
-</div>
+  <td style="vertical-align: middle; text-align: center; width: 40%;">
+      <img src="assets/gif_github.gif" alt="gif-juliasoares17" height="200" />
+    </td>
+  </tr>
+</table>
 
 <!-- Linguagens e ferramentas -->
 ### 💻 Tecnologias e Ferramentas

@@ -51,23 +51,23 @@
 
 <!-- Estatísticas -->
 ### 📈 Estatísticas
-<table align="center" style="margin-top:1rem;">
+<table align="center" border="0" style="margin-top:1rem;">
   <tr>
-    <td style="padding-right:0.5rem;">
+    <td style="padding-right:0.5rem; border:0;">
       <img 
         alt="GitHub Stats" 
         height="200" 
         src="https://github-readme-stats.vercel.app/api?username=juliasoares17&show_icons=truecount_private=true&rank_icon=github&theme=dracula&include_all_commits=true&locale=pt-br" 
       />
     </td>
-    <td style="padding-right:0.5rem;">
+    <td style="padding-right:0.5rem; border:0;">
       <img  
         alt="GitHub Stats" 
         height="200" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasoares17&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
       />
     </td>
-    <td>
+    <td style="border:0;">
       <a href="https://git.io/streak-stats">
         <img 
           alt="GitHub Streak" 

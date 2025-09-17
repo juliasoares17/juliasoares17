@@ -51,22 +51,34 @@
 
 <!-- Estatísticas -->
 ### 📈 Estatísticas
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-top: 1rem;">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=juliasoares17&show_icons=truecount_private=true&rank_icon=github&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
+<table align="center" style="margin-top:1rem;">
+  <tr>
+    <td style="padding-right:0.5rem;">
+      <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=juliasoares17&show_icons=truecount_private=true&rank_icon=github&theme=dracula&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td style="padding-right:0.5rem;">
+      <img  
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasoares17&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      />
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img 
+          alt="GitHub Streak" 
+          height="200" 
+          src="https://github-readme-streak-stats.herokuapp.com?user=juliasoares17&theme=dracula&locale=pt_BR&card_width=250&hide_current_streak=true&hide_longest_streak=true" 
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <img  
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasoares17&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-  <a href="https://git.io/streak-stats"><img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=juliasoares17&theme=dracula&locale=pt_BR&card_width=250&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
-</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliasoares17/juliasoares17/output/github-contribution-grid-snake-dark.svg">

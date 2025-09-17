@@ -51,7 +51,7 @@
 
 <!-- Estatísticas -->
 ### 📈 Estatísticas
-<table align="center" border="0" style="margin-top:1rem;">
+<table align="center" style="margin-top:1rem; border: none;">
   <tr>
     <td style="padding-right:0.5rem; border:0;">
       <img 

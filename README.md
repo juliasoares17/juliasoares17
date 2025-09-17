@@ -1,26 +1,3 @@
-<style>
-@media (max-width: 768px) {
-  .main-container {
-    flex-direction: column !important;
-    align-items: center !important;
-    text-align: center !important;
-  }
-
-  .text-column {
-    align-items: center !important;
-    text-align: center !important;
-  }
-
-  .badges {
-    justify-content: center !important;
-  }
-
-  .gif-column img {
-    margin-top: 1rem;
-  }
-}
-</style>
-
 <div class="main-container" style="display: flex; flex-direction: row; flex-wrap: wrap; align-items: stretch; gap: 1rem; justify-content: center; text-align: center;">
 
   <!-- Coluna de texto + badges -->
@@ -46,7 +23,7 @@
 
   <!-- Coluna do GIF -->
   <div class="gif-column" style="flex: 0 0 200px; display: flex; justify-content: center; align-items: center;">
-    <img src="assets/gif_github.gif" alt="gif-juliasoares17" style="max-height: 200px; max-width: 200px; object-fit: contain;" />
+    <img src="assets/gif_github.gif" alt="gif-juliasoares17" style="max-height: 100px; max-width: 100px; object-fit: contain;" />
   </div>
 
 </div>

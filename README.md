@@ -73,6 +73,12 @@
   <a href="https://git.io/streak-stats"><img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=juliasoares17&theme=dracula&locale=pt_BR&card_width=250&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliasoares17/juliasoares17/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliasoares17/juliasoares17/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/juliasoares17/juliasoares17/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 
 <!--

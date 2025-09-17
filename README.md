@@ -23,7 +23,7 @@
 
   <!-- Coluna do GIF -->
   <div class="gif-column" style="flex: 0 0 200px; display: flex; justify-content: center; align-items: center;">
-    <img src="assets/gif_github.gif" alt="gif-juliasoares17" style="max-height: 100px; max-width: 100px; object-fit: contain;" />
+    <img src="assets/gif_github.gif" alt="gif-juliasoares17" style="height: 50px; width: 50px; object-fit: contain;" />
   </div>
 
 </div>

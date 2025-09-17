@@ -4,9 +4,7 @@
     <!-- Coluna de texto + badges -->
     <td style="vertical-align: top; padding-right: 1rem; width:50%;">
       <!-- Typing SVG -->
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FF6E96&repeat=false&width=500&height=100&lines=Ol%C3%A1%2C+sou+Julia+Pereira!%F0%9F%91%8B" alt="Typing SVG" /></a>
-      <br>
-
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6E96&repeat=false&width=500&height=60&lines=Ol%C3%A1%2C+sou+Julia+Pereira!%F0%9F%91%8B" alt="Typing SVG" /></a>
   <!-- Texto resumido -->
   <div style="margin-top: 0.5rem; line-height:1.4; font-size:14px;">
         Sou Julia Soares Pereira, tenho 19 anos e curso Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal. Sou proativa, gosto de aprender e estou sempre em busca de aprimorar minhas habilidades.

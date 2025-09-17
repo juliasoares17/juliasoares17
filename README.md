@@ -24,7 +24,7 @@
 
   <!-- Coluna do GIF -->
   <td style="vertical-align: middle; text-align: center; width:70%;">
-      <img src="assets/gif_github.gif" alt="gif-juliasoares17" style="width:100%; height:auto;" />
+      <img src="assets/gif_github.gif" alt="gif-juliasoares17" width="100%" height="300"/>
     </td>
   </tr>
 </table>

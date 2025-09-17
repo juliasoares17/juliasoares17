@@ -7,15 +7,17 @@
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FF6E96&center=true&width=435&lines=Ol%C3%A1%2C+sou+Julia+Pereira!%F0%9F%91%8B" alt="Typing SVG" />
       </a>
+      <br>
 
   <!-- Texto resumido -->
   <div style="margin-top: 0.5rem; line-height:1.4; font-size:14px;">
         Sou Julia Soares Pereira, tenho 19 anos e curso Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal. Sou proativa, gosto de aprender e estou sempre em busca de aprimorar minhas habilidades.
       </div>
+      <br>
 
   <!-- Badges -->
   <div style="margin-top:0.5rem;">
-        <a href="mailto:juliapereira1448@gmail.com" target="_blank">
+        <a href="mailto:juliapereira1448@gmail.com" style="margin-right:0.4rem;" target="_blank">
           <img alt="email-juliasoares17" style="border-radius: 0.3rem; border: solid white 0.1rem;" src="https://img.shields.io/badge/✉️%20Email-282A36?style=for-the-badge&logo=microsoft-outlook&logoColor=F26B9C"/>
         </a>
         <a href="https://www.linkedin.com/in/julia-soares-pereira-9ab79830b" target="_blank">

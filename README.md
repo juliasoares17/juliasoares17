@@ -1,9 +1,10 @@
 <div class="main-container" style="display: flex; flex-direction: row; flex-wrap: wrap; align-items: stretch; gap: 1rem; justify-content: center; text-align: center;">
 
+  <div style="display: flex; flex-direction:row;">
   <!-- Coluna de texto + badges -->
-  <div class="text-column" style="flex: 1 1 300px; max-width: 500px; display: flex; flex-direction: column; gap: 0.5rem; align-items: flex-start; text-align: left;">
+  <div class="text-column" style="flex: 1 1 300px; width: 50%; display: flex; flex-direction: column; gap: 0.5rem; align-items: flex-start; text-align: left;">
     
-  <div style="width:50%">
+  <div>
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FF6E96&center=true&width=435&lines=Ol%C3%A1%2C+sou+Julia+Pereira!%F0%9F%91%8B" alt="Typing SVG" />
       </a>
@@ -25,7 +26,7 @@
   <div class="gif-column" style="flex: 0 0 200px; display: flex; justify-content: center; align-items: center;">
     <img src="assets/gif_github.gif" alt="gif-juliasoares17" style="max-height: 100px; width: 50%; object-fit: contain;" />
   </div>
-
+</div>
 </div>
 
 <!-- Linguagens e ferramentas -->

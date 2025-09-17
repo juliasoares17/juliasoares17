@@ -7,7 +7,7 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6E96&repeat=false&width=500&height=60&lines=Ol%C3%A1%2C+sou+Julia+Pereira!%F0%9F%91%8B" alt="Typing SVG" /></a>
   <!-- Texto resumido -->
   <div style="margin-top: 0.5rem; line-height:1.4; font-size:14px; width: 70%;">
-        Me chamo Julia Soares Pereira, tenho 19 anos de idade e atualmente curso o quarto semestre de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, em São José dos Campos (SP). Iniciei esse curso logo após concluir o Ensino Médio na Escola Walter Fortunato, e será minha primeira graduação na área da tecnologia. Sou proativa, gosto de aprender e estou sempre em busca de aprimorar minhas habilidades.
+        Me chamo Julia Soares Pereira, tenho 19 anos e atualmente curso o quarto semestre de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, em São José dos Campos (SP). Iniciei esse curso logo após concluir o Ensino Médio na Escola Walter Fortunato, e será minha primeira graduação na área da tecnologia. Sou proativa, gosto de aprender e estou sempre em busca de aprimorar minhas habilidades.
       </div>
       <br>
 
@@ -45,6 +45,7 @@
   <img align="center" alt="juliasoares17-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="juliasoares17-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   <img align="center" alt="juliasoares17-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img align="center" alt="juliasoares17-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
   
 </div>
 

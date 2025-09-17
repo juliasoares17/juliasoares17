@@ -31,7 +31,7 @@
   <div style="flex: 0 0 200px; display: flex; justify-content: center; align-items: center; margin-top: 1rem;">
     <img src="assets/gif_github.gif" 
          alt="gif-juliasoares17" 
-         style="max-height: 100%; max-width: 100%; object-fit: contain;" />
+         style="max-height: 100%; object-fit: contain;" />
   </div>
 
 </div>

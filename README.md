@@ -13,10 +13,10 @@
 
   <!-- Badges -->
   <div style="margin-top:0.5rem;">
-        <a href="mailto:juliapereira1448@gmail.com" style="margin-right:0.4rem;" target="_blank">
+        <a href="mailto:juliapereira1448@gmail.com" style="margin-right:0.4rem;">
           <img alt="email-juliasoares17" style="border-radius: 0.3rem; border: solid white 0.1rem;" src="https://img.shields.io/badge/✉️%20Email-282A36?style=for-the-badge&logo=microsoft-outlook&logoColor=F26B9C"/>
         </a>
-        <a href="https://www.linkedin.com/in/julia-soares-pereira-9ab79830b" target="_blank">
+        <a href="https://www.linkedin.com/in/julia-soares-pereira-9ab79830b">
           <img alt="linkedin-juliasoares17" style="border-radius: 0.3rem; border: solid white 0.1rem;" src="https://img.shields.io/badge/🔗%20LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=F26B9C"/>
         </a>
       </div>
@@ -55,7 +55,7 @@
 <div>
   <!-- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=juliasoares17&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&locale=pt-br"/> -->
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasoares17&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=juliasoares17&theme=dracula&locale=pt_BR&card_width=230&card_height=190&hide_current_streak=true&hide_longest_streak=true"/>
+  <!-- <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=juliasoares17&theme=dracula&locale=pt_BR&card_width=230&card_height=190&hide_current_streak=true&hide_longest_streak=true"/> -->
 </div>
 
 

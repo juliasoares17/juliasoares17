@@ -13,12 +13,8 @@
 
   <!-- Badges -->
   <div style="margin-top:0.5rem;">
-        <a href="mailto:juliapereira1448@gmail.com" style="margin-right:0.4rem;">
-          <img alt="email-juliasoares17" style="border-radius: 0.3rem; border: solid white 0.1rem;" src="https://img.shields.io/badge/✉️%20Email-282A36?style=for-the-badge&logo=microsoft-outlook&logoColor=F26B9C"/>
-        </a>
-        <a href="https://www.linkedin.com/in/julia-soares-pereira-9ab79830b">
-          <img alt="linkedin-juliasoares17" style="border-radius: 0.3rem; border: solid white 0.1rem;" src="https://img.shields.io/badge/🔗%20LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=F26B9C"/>
-        </a>
+          <img alt="email-juliasoares17" style="border-radius: 0.3rem; border: solid white 0.1rem;" href="mailto:juliapereira1448@gmail.com" src="https://img.shields.io/badge/✉️%20Email-282A36?style=for-the-badge&logo=microsoft-outlook&logoColor=F26B9C"/>
+          <img alt="linkedin-juliasoares17" style="border-radius: 0.3rem; border: solid white 0.1rem;" href="https://www.linkedin.com/in/julia-soares-pereira-9ab79830b" src="https://img.shields.io/badge/🔗%20LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=F26B9C"/>
       </div>
     </td>
 

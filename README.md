@@ -46,18 +46,17 @@
   <img align="center" alt="juliasoares17-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   <img align="center" alt="juliasoares17-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   <img align="center" alt="juliasoares17-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
+  <img align="center" alt="juliasoares17-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   
 </div>
 
 <!-- Estatísticas -->
 ### 📈 Estatísticas
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=juliasoares17&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&locale=pt-br" height="200" style="border:0; outline:0; display:inline-block;" />
-  &nbsp;&nbsp;
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasoares17&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" height="200" style="border:0; outline:0; display:inline-block;" />
-  &nbsp;&nbsp;
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=juliasoares17&theme=dracula&locale=pt_BR&card_width=250&hide_current_streak=true&hide_longest_streak=true" height="200" style="border:0; outline:0; display:inline-block;" />
-</p>
+<div>
+  <!-- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=juliasoares17&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&locale=pt-br"/> -->
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasoares17&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=juliasoares17&theme=dracula&locale=pt_BR&card_width=230&card_height=190&hide_current_streak=true&hide_longest_streak=true"/>
+</div>
 
 
 

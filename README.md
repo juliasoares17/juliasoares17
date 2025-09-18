@@ -13,7 +13,7 @@
 
   <!-- Badges -->
   <div style="margin-top:0.5rem;">
-        <a href="mailto:juliapereira1448@gmail.com" style="margin-right:0.4rem;">
+        <a href="https://mail.google.com/mail/?view=cm&to=juliapereira1448@gmail.com" style="margin-right:0.4rem;">
           <img alt="email-juliasoares17" style="border-radius: 0.3rem; border: solid white 0.1rem;" src="https://img.shields.io/badge/✉️%20Email-282A36?style=for-the-badge&logo=microsoft-outlook&logoColor=F26B9C"/>
         </a>
         <a href="https://www.linkedin.com/in/julia-soares-pereira-9ab79830b">

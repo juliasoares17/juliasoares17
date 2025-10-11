@@ -19,6 +19,9 @@
         <a href="https://www.linkedin.com/in/julia-soares-pereira-9ab79830b">
           <img alt="linkedin-juliasoares17" style="border-radius: 0.3rem; border: solid white 0.1rem;" src="https://img.shields.io/badge/🔗%20LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=F26B9C"/>
         </a>
+        <a href="./assets/curriculo_juliaPereira.pdf" download="curriculo_juliaPereira.pdf" style="margin-right:0.4rem;">
+          <img alt="curriculo-juliasoares17" style="border-radius: 0.3rem; border: solid white 0.1rem;" src="https://img.shields.io/badge/📝%20Currículo-282A36?style=for-the-badge&logo=microsoft-outlook&logoColor=F26B9C"/>
+        </a>
       </div>
     </td>
 
@@ -51,6 +54,7 @@
   <img align="center" alt="juliasoares17-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   
 </div>
+<br>
 
 <!-- Estatísticas -->
 ### 📈 Estatísticas

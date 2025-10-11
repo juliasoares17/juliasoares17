@@ -57,7 +57,6 @@
 <br>
 
 <!-- Estatísticas -->
-### 📈 Estatísticas
 <div>
   <!-- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=juliasoares17&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&locale=pt-br"/> -->
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasoares17&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9"/>

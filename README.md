@@ -1,7 +1,4 @@
 <!-- Seção principal: GIF à direita, texto + badges à esquerda -->
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
 <table align="center" style="width:100%; max-width:800px;">
   <tr>
     <!-- Coluna de texto + badges -->
@@ -74,9 +71,9 @@
 
 ### Estudando atualmente:
 
-<div style="display: flex; flex-direction:row; margin-top: 1rem; gap: 0.5rem;">
+<div style="display: inline-block; margin-top: 1rem;">
   <img align="center" alt="juliasoares17-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <i class="devicon-django-plain" style="font-size:28; display:flex; justify-content: center; align-items: center;"></i>
+  <img align="center" alt="juliasoares17-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
   <img align="center" alt="juliasoares17-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
 <br>
